@@ -6,20 +6,14 @@ Design a micromouse PCB from scratch and implement maze floodfill algorithms on 
 - [Micromouse](#micromouse)
   - [Table of Contents](#table-of-contents)
   - [About The Project](#about-the-project)
-  - [Domains Explored](#domains-explored)
   - [Project Workflow](#project-workflow)
-  - [Hardware and ELectronics used :](#hardware-and-electronics-used-)
+  - [Hardware Used](#hardware-used)
   - [Perfboard Testing](#perfboard-testing)
   - [PCB Model](#pcb-model)
   - [CAD Models](#cad-models)
     - [Features](#features)
-  - [Algorithm Simulation](#algorithm-simulation)
-    - [LFR algorithm(Left follow rule):](#lfr-algorithmleft-follow-rule)
-  - [File Structure](#file-structure)
-  - [Getting started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-    - [Usage](#usage)
+  - [Floodfill Algorithm Simulation](#floodfill-algorithm-simulation)
+  - [Software Used](#software-used)
   - [Future Work](#future-work)
   - [Contributors](#contributors)
   - [Resources](#resources)
@@ -47,7 +41,7 @@ The dimensions of our full-size micromouse is 11.5 x 10 cm
 - After this, the testing of the final Micromouse in a 6ft x 6ft maze will begin.
 
 
-## Hardware used :
+## Hardware Used
 
 |     Components        |          Description          |
 | --------------------- | ----------------------------- |
@@ -93,9 +87,10 @@ The dimensions of our full-size micromouse is 11.5 x 10 cm
 :-------------------------:|:-------------------------:|:-------------------------:|
   
 ## Floodfill Algorithm Simulation
+The path solving algorithm floodfill has been successfully implemented in the software simulation.  
+[Floodfill simulation](https://github.com/Ojasp21/Micromouse/blob/main/assets/flood%20fill%20simulation.mov)
 
-
-## Software Used :
+## Software Used 
 - Mechanical Design - [Onshape](https://www.onshape.com/en/)
 - PCB Design - [KiCad 8.0.4](https://www.kicad.org/)
 - Embedded C and Firmware - [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html)
