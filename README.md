@@ -53,7 +53,7 @@ The dimensions of our full-size micromouse is 11.5 x 10 cm
 
 
 ## Perfboard Testing
-| ![](https://github.com/Ojasp21/Micromouse/blob/main/assets/base_1.jpeg)            | ![](https://github.com/Ojasp21/Micromouse/blob/main/assets/top_view.jpeg) | ![](https://github.com/Ojasp21/Micromouse/blob/main/assets/perfboard_soldering.jpeg) | ![](https://github.com/Ojasp21/Micromouse/blob/main/assets/perfboard_assembled.jpeg) |
+| ![](https://github.com/Ojasp21/Micromouse/blob/dev1/assets/base_1.jpeg)            | ![](https://github.com/Ojasp21/Micromouse/blob/dev1/assets/top_view.jpeg) | ![](https://github.com/Ojasp21/Micromouse/blob/dev1/assets/perfboard_soldering.jpeg) | ![](https://github.com/Ojasp21/Micromouse/blob/dev1/assets/perfboard_assembled.jpeg) |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 
 ## PCB Model
@@ -70,12 +70,12 @@ The dimensions of our full-size micromouse is 11.5 x 10 cm
 ## CAD Models 
 - First design iteration was a four motor design with a suction fan. However this design was not suitable for fitting an enitre Esp-Devkit. 
 
-| ![four_motor_design](https://github.com/Ojasp21/Micromouse/blob/main/assets/four_motor_micromouse_CAD.png)            | ![two_motor_design](https://github.com/Ojasp21/Micromouse/blob/main/assets/micromouse_assembly.png) |  
+| ![four_motor_design](https://github.com/Ojasp21/Micromouse/blob/dev1/assets/four_motor_micromouse_CAD.png)            | ![two_motor_design](https://github.com/Ojasp21/Micromouse/blob/dev1/assets/micromouse_assembly.png) |  
 :-------------------------:|:-------------------------:|
 
 - Second and final design is a two-motor design with a suction fan. Certain drawbacks of the four-motor design was addressed in this design.  
 <p align="center">
-  <img src="https://github.com/Ojasp21/Micromouse/blob/main/assets/micromouse%20assembly.gif" width=70% height=70%>
+  <img src="https://github.com/Ojasp21/Micromouse/blob/dev1/assets/micromouse%20assembly.gif" width=70% height=70%>
 </p>
 
 ### Features 
@@ -83,7 +83,7 @@ The dimensions of our full-size micromouse is 11.5 x 10 cm
 - Custom mount to hold the motors, shaft and suction fan in place and reduce the distance between the plate and the ground.
 -  Gears to run 4 wheels on two motors  
   
-| ![](https://github.com/Ojasp21/Micromouse/blob/main/assets/impeller_design.png)            | ![](https://github.com/Ojasp21/Micromouse/blob/main/assets/custom_mounts.png) | ![](https://github.com/Ojasp21/Micromouse/blob/main/assets/grear_setup.png) |
+| ![](https://github.com/Ojasp21/Micromouse/blob/dev1/assets/impeller_design.png)            | ![](https://github.com/Ojasp21/Micromouse/blob/dev1/assets/custom_mounts.png) | ![](https://github.com/Ojasp21/Micromouse/blob/dev1/assets/grear_setup.png) |
 :-------------------------:|:-------------------------:|:-------------------------:|
   
 ## Floodfill Algorithm Simulation
