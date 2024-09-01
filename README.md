@@ -112,7 +112,7 @@ The path solving algorithm floodfill has been successfully implemented in the so
 
 ## Acknowledgements 
 - [SRA VJTI](https://sravjti.in/) Eklavya 2024
-- Special thanks to our mentors [Atharva Atre](https://github.com/AtharvaAtre), [Suraj Sonwane](https://github.com/SurajSonawane2415), and all the seniors at SRA, VJTI for their constant support and guidance throughout the project.
+- Special thanks to our mentors [Atharva Atre](https://github.com/AtharvaAtre), [Suraj Sonawane](https://github.com/SurajSonawane2415), and all the seniors at SRA, VJTI for their constant support and guidance throughout the project.
 
 ## License
 [MIT License](https://opensource.org/license/mit/)
